@@ -13,6 +13,7 @@
 		CACFCBA7280BDF6900049292 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CACFCBA5280BDF6900049292 /* Main.storyboard */; };
 		CACFCBA9280BDF6B00049292 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CACFCBA8280BDF6B00049292 /* Assets.xcassets */; };
 		CACFCBAC280BDF6B00049292 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CACFCBAA280BDF6B00049292 /* LaunchScreen.storyboard */; };
+		CACFCBBA280BFCE300049292 /* littledeep_bulb_style1.png in Resources */ = {isa = PBXBuildFile; fileRef = CACFCBB9280BFCE300049292 /* littledeep_bulb_style1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CACFCBA8280BDF6B00049292 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CACFCBAB280BDF6B00049292 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CACFCBAD280BDF6B00049292 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CACFCBB9280BFCE300049292 /* littledeep_bulb_style1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = littledeep_bulb_style1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CACFCBA8280BDF6B00049292 /* Assets.xcassets */,
 				CACFCBAA280BDF6B00049292 /* LaunchScreen.storyboard */,
 				CACFCBAD280BDF6B00049292 /* Info.plist */,
+				CACFCBB9280BFCE300049292 /* littledeep_bulb_style1.png */,
 			);
 			path = appTest;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 				CACFCBAC280BDF6B00049292 /* LaunchScreen.storyboard in Resources */,
 				CACFCBA9280BDF6B00049292 /* Assets.xcassets in Resources */,
 				CACFCBA7280BDF6900049292 /* Main.storyboard in Resources */,
+				CACFCBBA280BFCE300049292 /* littledeep_bulb_style1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
